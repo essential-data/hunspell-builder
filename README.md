@@ -6,7 +6,7 @@ Copyright
 
 Copyright (c) 2015 Essential Data, s.r.o.
 
-This code can be used according to Apache License, verzia 2.0 z januára 2004
+This code can be used according to Apache License, verzia 2.0 from january 2004
 
 More information in LICENSE. 
 
